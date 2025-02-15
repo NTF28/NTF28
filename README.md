@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NTF28
+- 👋 Hi, I’m @NTF
 - 👀 I’m interested in writing a bit of code
 - 🌱 I’m currently learning to contribute more to the tech world
 - ⚡ Fun fact: When I first started to code, I was doing it in a way to get away from studying back in middle school. Now here I am, studying to code...
